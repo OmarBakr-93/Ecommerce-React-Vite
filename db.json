@@ -1,0 +1,220 @@
+{
+  "products" : [
+    {
+      "id": 1,
+      "title": "HP BELANCA Core i2",
+      "image": "/images/products/laptops/l1.jpg",
+      "price": 750,
+      "rating": 4.5,
+      "reviews": "900",
+      "isLaptop": true
+    },
+    {
+      "id": 2,
+      "title": "laptop asus gaming 515-5",
+      "image": "/images/products/laptops/l2.jpg",
+      "price": 600,
+      "rating": 3.8,
+      "reviews": "250",
+      "isLaptop": true
+    },
+    {
+      "id": 3,
+      "title": "Hawaii laptop Macbook Air",
+      "image": "/images/products/laptops/l3.jpg",
+      "price": 800,
+      "rating": 4.6,
+      "reviews": "1,200",
+      "isLaptop": true
+    },
+    {
+      "id": 4,
+      "title": "laptop asus utf 14",
+      "image": "/images/products/laptops/l4.jpg",
+      "price": 950,
+      "rating": 4.1,
+      "reviews": "7,548",
+      "isLaptop": true
+    },
+    {
+      "id": 5,
+      "title": "laptop asus utf 15",
+      "image": "/images/products/laptops/l1.jpg",
+      "price": 700,
+      "rating": 4.5,
+      "reviews": "2,200",
+      "isLaptop": true
+    },
+    {
+      "id": 6,
+      "title": "laptop asus gaming 15",
+      "image": "/images/products/laptops/l6.jpg",
+      "price": 990,
+      "rating": 4.8,
+      "reviews": "5,500",
+      "isLaptop": true
+    },
+    {
+      "id": 7,
+      "title": "Lenovo Ideapad 3",
+      "image": "/images/products/laptops/l7.jpg",
+      "price": 500,
+      "rating": 4.2,
+      "reviews": "850",
+      "isLaptop": true
+    },
+    {
+      "id": 8,
+      "title": "Microsoft Surface Pro 7",
+      "image": "/images/products/laptops/l8.jpg",
+      "price": 850,
+      "rating": 4.7,
+      "reviews": "8,200",
+      "isLaptop": true
+    },
+    {
+      "id": 9,
+      "title": "Microsoft Surface Pro 8",
+      "image": "/images/products/laptops/l8.jpg",
+      "price": 900,
+      "rating": 4.1,
+      "reviews": "1,895",
+      "isLaptop": true
+    },
+    {
+      "id": 10,
+      "title": "laptop asus favo 7",
+      "image": "/images/products/laptops/l10.jpg",
+      "price": 680,
+      "rating": 3.5,
+      "reviews": "8,124",
+      "isLaptop": true
+    },
+    {
+      "id": 11,
+      "title": "Iphone 13 Pro Max",
+      "image": "/images/products/mobiles/m1.jpg",
+      "price": 800,
+      "rating": 4.9,
+      "reviews": "8,240",
+      "isLaptop": false
+    },
+    {
+      "id": 12,
+      "title": "Samsung galaxy phone m22",
+      "image": "/images/products/mobiles/m2.jpg",
+      "price": 350,
+      "rating": 4.5,
+      "reviews": "9,014",
+      "isLaptop": false
+    },
+    {
+      "id": 13,
+      "title": "Samsung galaxy m12",
+      "image": "/images/products/mobiles/m3.jpg",
+      "price": 200,
+      "rating": 3.5,
+      "reviews": "7,784",
+      "isLaptop": false
+    },
+    {
+      "id": 14,
+      "title": "Oppo A74 5G",
+      "image": "/images/products/mobiles/m4.jpg",
+      "price": 250,
+      "rating": 4.5,
+      "reviews": "2,401",
+      "isLaptop": false
+    },
+    {
+      "id": 15,
+      "title": "Samsung galaxy FE",
+      "image": "/images/products/mobiles/m5.jpg",
+      "price": 290,
+      "rating": 3.0,
+      "reviews": "420",
+      "isLaptop": false
+    },
+    {
+      "id": 16,
+      "title": "vivo v23 5G",
+      "image": "/images/products/mobiles/m6.jpg",
+      "price": 750,
+      "rating": 5,
+      "reviews": "1,500",
+      "isLaptop": false
+    },
+    {
+      "id": 17,
+      "title": "Iphone 12 Pro Max",
+      "image": "/images/products/mobiles/m7.jpg",
+      "price": 700,
+      "rating": 4.5,
+      "reviews": "4,540",
+      "isLaptop": false
+    },
+    {
+      "id": 18,
+      "title": "Nokia 6.1",
+      "image": "/images/products/mobiles/m8.jpg",
+      "price": 500,
+      "rating": 4.5,
+      "reviews": "17,124",
+      "isLaptop": false
+    },
+    {
+      "id": 19,
+      "title": "Xiaomi Redmi Note 11",
+      "image": "/images/products/mobiles/m9.jpg",
+      "price": 470,
+      "rating": 4.0,
+      "reviews": "4,700",
+      "isLaptop": false
+    },
+    {
+      "id": 20,
+      "title": "Samsung galaxy m52",
+      "image": "/images/products/mobiles/m10.jpg",
+      "price": 850,
+      "rating": 5,
+      "reviews": "2,300",
+      "isLaptop": false
+    },
+    {
+      "id": 21,
+      "title": "Nokia A12",
+      "image": "/images/products/mobiles/m11.jpg",
+      "price": 40,
+      "rating": 4.1,
+      "reviews": "850",
+      "isLaptop": false
+    },
+    {
+      "id": 22,
+      "title": "Samsung galaxy m13 light",
+      "image": "/images/products/mobiles/m12.jpg",
+      "price": 620,
+      "rating": 5,
+      "reviews": "7,500",
+      "isLaptop": false
+    },
+    {
+      "id": 23,
+      "title": "Hawaii H3",
+      "image": "/images/products/mobiles/m13.jpg",
+      "price": 250,
+      "rating": 3.5,
+      "reviews": "1,784",
+      "isLaptop": false
+    },
+    {
+      "id": 24,
+      "title": "Samsung galaxy m32 5G",
+      "image": "/images/products/mobiles/m14.jpg",
+      "price": 320,
+      "rating": 4.1,
+      "reviews": "8,102",
+      "isLaptop": false
+    }
+  ]
+}
